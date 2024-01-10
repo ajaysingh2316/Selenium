@@ -34,6 +34,8 @@ public class Demo3signup {
 
 
         driver.findElement(By.xpath("//input[@value='-1']")).click();
+
+        driver.quit();
         
 
 
