@@ -22,11 +22,16 @@ public class Demo5sity {
         //  Enter date as “14/04/2022”
         //  Click on Proceed
         //Get the text and print it “Please accept Terms and Conditions”
-        driver.findElements(By.linkText("select your product type")).click;
+
+        driver.findElement(By.linkText("select your product type")).click();
 
         driver.findElement(By.linkText("Credit Card")).click();
 
-        driver.findElement(By.name("Sity card"))
+        driver.findElement(By.name("Sity card"));
+
+//        driver.findElement(By)
+
+
 
 
 
