@@ -48,6 +48,8 @@ public class OpenemrDemo {
         driver.findElement(By.xpath("//input[@id='form_lname']")).sendKeys("jpmorgan");
         driver.findElement(By.xpath("//input[@id='form_DOB")).sendKeys("12-12-1212");
 
+        driver.switchTo().defaultContent();
+
 
 
 
