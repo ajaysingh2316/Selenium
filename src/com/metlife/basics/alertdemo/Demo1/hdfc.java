@@ -8,6 +8,9 @@ import java.time.Duration;
 
 public class hdfc {
     public static void main(String[] args) {
+        // frame using webelement
+        //switch using index
+        //switch using string
 
 
         WebDriver driver = new ChromeDriver();
