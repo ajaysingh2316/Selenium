@@ -17,7 +17,7 @@ public class citybank {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         driver.get("https://www.online.citibank.co.in/");
         /*
-        * 1.  Navigate onto https://www.online.citibank.co.in/
+       * 1.  Navigate onto https://www.online.citibank.co.in/
 2.  Close if any pop up comes
 3.  Click on Login
 4.  Click on Forgot User ID?
