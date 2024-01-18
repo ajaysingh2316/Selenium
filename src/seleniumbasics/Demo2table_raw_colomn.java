@@ -5,9 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.util.List;
-
-public class Demo2 {
+public class Demo2table_raw_colomn {
     public static void main(String[] args) {
         ////todo auto generated methods
 
